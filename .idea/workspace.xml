@@ -4,14 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fff92c73-95ea-4833-9f50-7932ca530284" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DBConnectionMgr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="fff92c73-95ea-4833-9f50-7932ca530284" name="변경" comment="22.8.21">
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberApply.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberApplyCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberApplyFrm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberApplyProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberIdCheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberInfoUpdate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberInfoUpdateProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberLoginCheckProc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberLoginProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-MemberLogout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecApply.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecApply2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecApplyAlert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecApplyCustomCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecApplyInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecApplyProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecApplyValueCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecDelete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecModify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecModifyProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-SpecModifyProc2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/VMPC-UI.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test_vmpc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vmpc_Apply_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vmpc_apply_info.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vmpc_apply_info_1123.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vmpc_specApplyCheck.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +57,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2DegVxXOU9VDsxPW5Y9hjMP1ymm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,13 +71,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "패싯",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.17356321"
+    "project.structure.last.edited": "아티팩트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.17356321",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
   </component>
@@ -56,11 +87,11 @@
     <configuration name="Tomcat 10.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.22" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <file path="$PROJECT_DIR$/src">
+        <artifact name="Vmpc_Svc:Web6 exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/src" />
+            <option name="CONTEXT_PATH" value="/Vmpc_Svc_Web6_exploded" />
           </settings>
-        </file>
+        </artifact>
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="0dcc723b-74af-459a-933d-a0e52fc180fd" />
@@ -135,6 +166,9 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Vmpc_Svc:Web6 exploded" />
+        </option>
       </method>
     </configuration>
   </component>
@@ -146,8 +180,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661064992265</updated>
-      <workItem from="1661064994317" duration="615000" />
+      <workItem from="1661064994317" duration="4450000" />
     </task>
+    <task id="LOCAL-00001" summary="22.8.21">
+      <created>1661065827010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661065827010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +205,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22.8.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.8.21" />
   </component>
 </project>
