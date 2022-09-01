@@ -12,7 +12,6 @@
     <list default="true" id="fff92c73-95ea-4833-9f50-7932ca530284" name="변경" comment="22.8.24  bootstrap apply">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/VMPC-MemberLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/VMPC-MemberLogin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/VMPC-SpecApplyValueCheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/VMPC-SpecApplyValueCheck.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript 디버그.firstPage.html">
+  <component name="RunManager" selected="JavaScript 디버그.VMPC-MemberLogin.jsp">
     <configuration name="VMPC-MemberLogin.jsp" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/Vmpc_Svc_Web6_exploded/VMPC-MemberLogin.jsp">
       <method v="2" />
     </configuration>
@@ -189,7 +188,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661064992265</updated>
-      <workItem from="1661064994317" duration="25223000" />
+      <workItem from="1661064994317" duration="27575000" />
     </task>
     <task id="LOCAL-00001" summary="22.8.21">
       <created>1661065827010</created>
@@ -212,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661471150768</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="22.8.24  bootstrap apply">
+      <created>1661991733220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661991733234</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
