@@ -28,6 +28,22 @@
 <title>로그인</title>
 <link href="bootstrap.min.css" rel="stylesheet">
 
+	<ul class="nav justify-content-center">
+		<li class="nav-item">
+			<a class="nav-link active" aria-current="page" href="#">Active</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="#">Link</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="#">Link</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link disabled">Disabled</a>
+		</li>
+	</ul>
+
+
 	<style>
 		.bd-placeholder-img {
 			font-size: 1.125rem;

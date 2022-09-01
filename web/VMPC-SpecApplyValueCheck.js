@@ -19,7 +19,7 @@ function SpecApplyCheck(){
 	
 	if (sel_type1==null) {
 		alert("사양신청을 선택하세요");
-		return false;
+						return false;
 	}
 	
 	var chk_radio2 = document.getElementsByName('custom_info');

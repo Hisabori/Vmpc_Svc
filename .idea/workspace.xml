@@ -10,185 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff92c73-95ea-4833-9f50-7932ca530284" name="변경" comment="22.8.24  bootstrap apply">
-      <change afterPath="$PROJECT_DIR$/web/_accordion.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_containers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_maps.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_offcanvas.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_placeholders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/album-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/album/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/assets/brand/bootstrap-logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/assets/brand/bootstrap-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/assets/dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/assets/dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/assets/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/assets/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/blog-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/blog/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/blog/blog.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/carousel-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/carousel/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/carousel/carousel.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/cheatsheet-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/cheatsheet/cheatsheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/cheatsheet/cheatsheet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/cheatsheet/cheatsheet.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/cheatsheet/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/checkout-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/checkout/form-validation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/checkout/form-validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/checkout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/cover/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/cover/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dashboard-rtl/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dashboard-rtl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dashboard/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dashboard/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dashboard/dashboard.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dashboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dropdowns/dropdowns.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/dropdowns/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/features/features.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/features/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/features/unsplash-photo-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/features/unsplash-photo-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/features/unsplash-photo-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/footers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/headers/headers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/headers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/heroes/bootstrap-docs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/heroes/bootstrap-themes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/heroes/heroes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/heroes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/jumbotron/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/list-groups/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/list-groups/list-groups.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/masonry/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/modals/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/modals/modals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbar-bottom/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbar-fixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbar-fixed/navbar-top-fixed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbar-static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbar-static/navbar-top.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbars-offcanvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbars-offcanvas/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbars/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/navbars/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/offcanvas-navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/offcanvas-navbar/offcanvas.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/offcanvas-navbar/offcanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/offcanvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/pricing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/pricing/pricing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/product/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/product/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sidebars/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sidebars/sidebars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sidebars/sidebars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sign-in/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sign-in/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/starter-template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/starter-template/starter-template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sticky-footer-navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sticky-footer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/sticky-footer/sticky-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap-utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/bootstraptest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/firstPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_floating-labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_form-check.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_form-control.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_form-range.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_form-select.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_form-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/forms/_validation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_color-bg.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_colored-links.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_ratio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_stacks.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_stretched-link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_text-truncation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_visually-hidden.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/helpers/_vr.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_backdrop.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_color-scheme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_deprecate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_table-variants.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mixins/_visually-hidden.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/utilities/_api.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/_rfs.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/VMPC-MemberLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/VMPC-MemberLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/VMPC-SpecApplyValueCheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/VMPC-SpecApplyValueCheck.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661064992265</updated>
-      <workItem from="1661064994317" duration="17748000" />
+      <workItem from="1661064994317" duration="25223000" />
     </task>
     <task id="LOCAL-00001" summary="22.8.21">
       <created>1661065827010</created>
@@ -381,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661242495032</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="22.8.24  bootstrap apply">
+      <created>1661471150767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661471150768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
