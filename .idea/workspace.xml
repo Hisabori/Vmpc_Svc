@@ -9,14 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fff92c73-95ea-4833-9f50-7932ca530284" name="변경" comment="2022.9.1 bootstrap 수정">
-      <change afterPath="$PROJECT_DIR$/web/DBConnectionMgr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/DBConnectionMgr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/VMPC-MembeApply-TEST.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/VMPC-UI-BOOTSTRAP.css" afterDir="false" />
+    <list default="true" id="fff92c73-95ea-4833-9f50-7932ca530284" name="변경" comment="2022.9.24 bgcolor css 지원중단 대비">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/VMPC-MemberLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/VMPC-MemberLogin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/features/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/bootstrap-5.2.0-examples/features/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/VMPC-MembeApply-TEST.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/VMPC-MembeApply-TEST.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,26 +75,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/han/IdeaProjects/Vmpc_Svc/web&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;아티팩트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.17356321&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/han/IdeaProjects/Vmpc_Svc/web",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "아티팩트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.17356321",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web" />
@@ -229,7 +225,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661064992265</updated>
       <workItem from="1661064994317" duration="71703000" />
-      <workItem from="1663529690513" duration="2129000" />
+      <workItem from="1663529690513" duration="4708000" />
     </task>
     <task id="LOCAL-00001" summary="22.8.21">
       <created>1661065827010</created>
@@ -273,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662074224980</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2022.9.24 bgcolor css 지원중단 대비">
+      <created>1663998462862</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663998462862</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +298,7 @@
     <MESSAGE value="22.8.23" />
     <MESSAGE value="22.8.24  bootstrap apply" />
     <MESSAGE value="2022.9.1 bootstrap 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.9.1 bootstrap 수정" />
+    <MESSAGE value="2022.9.24 bgcolor css 지원중단 대비" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.9.24 bgcolor css 지원중단 대비" />
   </component>
 </project>
