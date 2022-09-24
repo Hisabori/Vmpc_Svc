@@ -139,9 +139,9 @@
 				<input type="checkbox" value="remember-me"> 로그인 정보 저장하기
 			</label>
 		</div>
-		<button class="w-100 btn btn-lg btn-primary"  input type="button"  value="로그인" onclick="loginCheck()">로그인</button>
+		<button class="w-100 btn btn-lg btn-primary"  input type="button"  value="로그인" onClick="loginCheck()">로그인</button>
 		<p></p>
-		<button class="w-100 btn btn-lg btn-primary"  input type="button"  >가입</button>
+		<button class="w-100 btn btn-lg btn-primary"  input type="button"  onClick="javascript:location.href='VMPC-MemberApply.jsp'" >가입</button>
 		<p class="mt-5 mb-3 text-muted">&copy; 2017–2022, 20180786 JEONGHUN HAN</p>
 	</form>
 </main>
