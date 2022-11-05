@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Vmpc_Svc:Web6 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vmpc_Svc_Web6_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Vmpc_Svc/web/Web6" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Vmpc_Svc" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
